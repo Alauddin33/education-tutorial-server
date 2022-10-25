@@ -1,0 +1,80 @@
+[
+    {
+        "_id": "63580f03e3fea05cb59bcb61",
+        "title": "Reach your target audience, and grow your business",
+        "email": "nievesavila@overplex.com",
+        "phone": "+1 (850) 570-2134",
+        "thumbnail": "https://tens360.com/wp-content/uploads/2020/01/DIGITAL-MARKETING.jpg",
+        "address": "311 Grant Avenue, Chemung, Kentucky, 8687",
+        "name": "Digital Marketing",
+        "id": 1,
+        "picture": "https://www.simplilearn.com/ice9/free_resources_article_thumb/history_and_evolution_of_digital_marketing.jpg",
+        "about": "Any marketing that uses electronic devices and can be used by marketing specialists to convey promotional messaging and measure its impact through your customer journey. In practice, digital marketing typically refers to marketing campaigns that appear on a computer, phone, tablet, or other device. It can take many forms, including online video, display ads, search engine marketing, paid social ads and social media posts. Digital marketing is often compared to “traditional marketing” such as magazine ads, billboards, and direct mail. Oddly, television is usually lumped in with traditional marketing.",
+        "registered": "2016-06-30T04:19:23 -06:00"
+    },
+    {
+        "_id": "63580f030b8baf81abd2117f",
+        "title": "The building and maintenance of websites",
+        "email": "jaynemullen@overplex.com",
+        "phone": "+1 (810) 435-3127",
+        "thumbnail": "https://www.digitalsilk.com/wp-content/uploads/2020/06/website-development-process-1.jpg",
+        "address": "444 Doughty Street, Crumpler, New Hampshire, 2977",
+        "name": "Web Design and Development",
+        "id": 2,
+        "picture": "https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png",
+        "about": "Web design and development is an umbrella term that describes the process of creating a website. Like the name suggests, it involves two major skill sets: web design and web development. Web design determines the look and feel of a website, while web development determines how it functions. Because there isn't always a hard line that separates the two roles, the titles are often used interchangeably. As the web continues to evolve, so do the roles",
+        "registered": "2016-08-03T07:47:33 -06:00"
+    },
+    {
+        "_id": "63580f03100bc6c9f1d64451",
+        "title": "A introduction to autoCAD for architecture and engineering",
+        "email": "ellamurray@overplex.com",
+        "phone": "+1 (931) 475-3786",
+        "thumbnail": "https://www.globalcad.co.uk/wp-content/uploads/2019/10/globalcad-blog-2019-10-revit-or-autocad-1.jpg",
+        "address": "139 Farragut Road, Efland, South Dakota, 8642",
+        "name": "Auto CAD",
+        "id": 3,
+        "picture": "https://www.3dnatives.com/en/wp-content/uploads/sites/2/2020/04/autocad-1280x720.jpg",
+        "about": "AutoCAD is a computer-aided drafting program used for a large number of different design processes. Its usage centers around drawing with electronic equivalents of real-life drafting tools. The added support of digital precision helps with measurements and calculations, 3D components, and data sharing. A large part of its success can be credited to the diversity of design tasks supported by the software. Throughout the rest of this article, we'll walk you through the most important details of the software suite as well as its many uses.",
+        "registered": "2015-09-24T08:56:04 -06:00"
+    },
+    {
+        "_id": "63580f039dfd8f08303a0dae",
+        "title": "Molding the User Experience Visually",
+        "email": "onealwyatt@overplex.com",
+        "phone": "+1 (823) 554-3534",
+        "thumbnail": "https://img.freepik.com/free-vector/graphic-design-colorful-geometrical-lettering_52683-34588.jpg",
+        "address": "451 High Street, Blanco, Alabama, 7729",
+        "name": "Graphics Design",
+        "id": 4,
+        "picture": "https://digitaltribe.ae/wp-content/uploads/2021/05/Graphic-designing.jpg",
+        "about": "graphic design is defined as “the art and practice of planning and projecting ideas and experiences with visual and textual content.” In other terms, graphic design communicates certain ideas or messages in a visual way. These visuals can be as simple as a business logo, or as complex as page layouts on a website. Graphic design can be used by companies to promote and sell products through advertising, by websites to convey complicated information in a digestible way through infographics, or by businesses to develop an identity through branding, among other things.",
+        "registered": "2014-02-19T08:45:03 -06:00"
+    },
+    {
+        "_id": "63580f03345de93e5a149593",
+        "title": "Third most spoken language in the world",
+        "email": "helenetillman@overplex.com",
+        "phone": "+1 (833) 453-3745",
+        "thumbnail": "https://www.languagelabsystem.com/images/english-speaking-benefits.jpg",
+        "address": "976 Kent Street, Cawood, Delaware, 9195",
+        "name": "Spoken English",
+        "id": 5,
+        "picture": "https://www.saltlabbd.com/wp-content/uploads/2020/06/Website-creatives-for-pages.jpg",
+        "about": "To become a fluent English speaker, you must study and master reading, listening, and speaking. At TalkEnglish.com, the lessons are structured to give you practice in all three areas at the same time. 'Spoken English' is English that is spoken by people to converse and communicate. It comprises the usage of words, phrases and sentences verbally in order to communicate or express ideas or feelings to people around us.",
+        "registered": "2017-02-20T01:54:59 -06:00"
+    },
+    {
+        "_id": "63580f03c5614e0db9e4106b",
+        "title": "Earning by working independently without any obligation",
+        "email": "gailcurry@overplex.com",
+        "phone": "+1 (859) 463-2131",
+        "thumbnail": "https://outsourcingway.com/wp-content/uploads/2020/01/Freelancing-outsourcing-746x430.jpg",
+        "address": "681 Loring Avenue, Sardis, Arizona, 1468",
+        "name": "Fre Lancing/Out Sourcing",
+        "id": 6,
+        "picture": "https://st2.depositphotos.com/1038076/7301/i/600/depositphotos_73018645-stock-photo-freelance.jpg",
+        "about": "A freelancer is often hired for a particular job or fixed project who has the freedom to work flexible hours on these projects. Being self-employed, it is common for freelancers to handle multiple clients at any given time. Freelancers can be a great addition to an existing workforce for businesses who look for cost-effective service and high-quality work. Freelancers are perfect for small to medium business owners who are looking for excellent outsource partners who can work independently and can be productive under minimum supervision.",
+        "registered": "2016-04-02T11:30:26 -06:00"
+    }
+]
