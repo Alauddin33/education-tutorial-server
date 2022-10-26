@@ -6,6 +6,7 @@ const port = process.env.PORT || 5000;
 app.use(cors());
 
 const categories = require('./data/categories.json');
+const details = require('./data/details.json');
 
 
 app.get('/', (req, res) => {
@@ -15,6 +16,19 @@ app.get('/', (req, res) => {
 
 app.get('/courses-categories', (req, res) => {
     res.send(categories);
+});
+
+
+app.get('/details/:id', (req, res) => {
+    const id = req.params.id;
+    console.log(id);
+    const contentDetails = details.find(d => d.id === id);
+    res.send(contentDetails);
+});
+
+
+app.get('/courses', (req, res) => {
+    res.send(details);
 })
 
 app.listen(port, () => {

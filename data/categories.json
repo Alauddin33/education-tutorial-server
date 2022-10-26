@@ -1,26 +1,26 @@
 [
     {
-        "id": 1,
+        "id": "1",
         "name": "Digital Marketing"
     },
     {
-        "id": 2,
+        "id": "2",
         "name": "Web Design and Development"
     },
     {
-        "id": 3,
+        "id": "3",
         "name": "Auto CAD"
     },
     {
-        "id": 4,
+        "id": "4",
         "name": "Graphics Design"
     },
     {
-        "id": 5,
+        "id": "5",
         "name": "Spoken English"
     },
     {
-        "id": 6,
+        "id": "6",
         "name": "Fre Lancing/Out Sourcing"
     }
 ]
