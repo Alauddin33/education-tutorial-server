@@ -31,6 +31,10 @@ app.get('/courses', (req, res) => {
     res.send(details);
 })
 
+app.get('/details/:id/cards/:id', (req, res)=>{
+    res.send(details);
+})
+
 app.listen(port, () => {
     console.log('Education tutorial server running on port', port);
 })
